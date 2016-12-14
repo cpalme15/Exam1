@@ -1,4 +1,4 @@
-private static void myReverse(String str) {
+private static void Reverse(String str) {
     String reverse = "";
     int length = str.length();
     for( int i = length - 1 ; i >= 0 ; i-- ) {
